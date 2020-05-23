@@ -18,6 +18,13 @@ body {
   background-color: #f9fbfd;
 }
 
+h1{
+	padding: 20px;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.986);
+	font-weight: bold;
+}
+
 .wrapper {
   padding-top: 30px;
   padding-left: 20px;
